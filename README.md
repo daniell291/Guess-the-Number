@@ -1,5 +1,5 @@
 # Guess the Number
-<h2>It looks like a simple game, but you won't find a better Guess the Number.</p>
+<h2>It looks like a simple game, but you won't find a better Guess the Number in the world.</p>
 Made in python with Tkinter for fun</h2>
 
 <h2>go to: https://github.com/daniell291/Guess-the-Number/releases/tag/v2.0.0</p>
